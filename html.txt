@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="description" content="Curriculum vitae Iryna Rusyn"> 
+<meta name="keyword" content="CV, Curriculum vitae, Резюме">
+<title> Curriculum vitae Iryna Rusyn </title>
+</head>
+<body>
+<div>
+<img align="right"src="https://klike.net/uploads/posts/2019-07/medium/1564314090_3.jpg" alt="Cat"
+height="100" position="fixed"></div>
+<h1 style ="color:#4169E1"><center>Curriculum vitae</center></h1>
+<h2><center><em>Iryna Rusyn</em></center></h2>
+<hr>
+<p><b>Email:</b> &nbsp; irinarusin26@gmail.com </p>
+<p><b>Phone:</b> &nbsp; +380970100011 </p>
+<p><b>Date of birth:</b> &nbsp; 26.02.1990</p>
+<p><b>LinkedIn:</b> &nbsp; <a target="_blank" href="https://ua.linkedin.com/">https://ua.linkedin.com/</a></p>
+
+
+<h2><center><em>Education</em></center></h2>
+<center><table border="1" cellpadding="5" 
+style="border-collapse: collapse; border: 1px solid black; width: 80%;">
+    <tr>
+      <th>Taras Shevchenko National University</th>
+      <td><center> 2007-2013 </center></td>
+      <td> Law, Master's Degree</td>
+    </tr>
+    <tr>
+      <th>Taras Shevchenko National University. <br> Institute of Postgraduate Education</th>
+      <td><center> 2011-2014 </center></td>
+      <td> Finance and Credit, Degree of Specialist</td>
+    </tr>
+    <tr>
+    <th><a target="_blank" href="https://ithillel.ua/?gclid=Cj0KCQjwjIKYBhC6ARIsAGEds-Iau3mqBkpteKrRVtAdEcTCXJQ4GUyD1ZS2SeSkvnA0sQpCkM9Gh3UaAh-9EALw_wcB" title="Hillel IT School">Hillel IT School</a></th>
+      <td><center> 2022 </center></td>
+      <td> QA Manual </td>
+    </tr>
+ 
+</table></center>
+<h2><center><em> Work Experience</em></center></h2>
+
+<center><table border="1" cellpadding="5" 
+style="border-collapse: collapse; border: 1px solid black; width: 80%;">
+    <tr>
+      <th> High Specialized Court of Ukraine for <br> Civil and Criminal Cases </th>
+      <td> <center> 2013-2015 </center> </td>
+      <td> Legal counsel </td>
+    </tr>
+    <tr>
+      <th> LLC INCOSTEEL GROUP </th>
+      <td> <center> 2016-2019 </center> </td>
+      <td> Chief legal counsel of the Department </td>
+    </tr>
+    <tr>
+      <th> Work with the private investors </th>
+      <td> <center> 2019-2021 </center> </td>
+      <td> Specialist for work with non-resident companies </td>
+    </tr>
+     <tr>
+      <th><a target="_blank" href="https://www.uz.gov.ua/" title="Ukrzaliznytsia">Ukrzaliznytsia</a></th>
+      <td> <center> 2021-2022 </center> </td>
+      <td> Deputy Director of Corporate Rights Management Department </td>
+    </tr>
+</table></center>
+<h2><center><em>Skills</em></center></h2>
+<ul>
+<li>Teamwork</li>
+<li>Organizational skills</li>
+<li>Critical thinking</li>
+<li>Self-motivation</li>
+<li>Passionate</li>
+<li>Creative thinking</li>
+<li>Attentive to details</li>
+</ul>
+<h2><center><em>Knowledge of Languages</em></center></h2>
+<center><table border="1" cellpadding="5" 
+style="border-collapse: collapse; border: 1px solid black; width: 80%;">
+    <tr>
+      <th> Ukrainian </th>
+      <td> fluently </td>
+    </tr>
+    <tr>
+      <th> Russian </th>
+      <td> fluently </td>
+    </tr>
+    <tr>
+      <th> English </th>
+      <td> intermediate </td>
+    </tr>
+    <tr>
+      <th> French </th>
+      <td> begginer </td>
+    </tr>
+</table></center>
+
+</body>
+</html>
+
+
